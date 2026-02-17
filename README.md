@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sertacates (High School Computer Science Teacher)
+- 👋 Hi, I’m @sertacates (High School Computer and Instructional Technology Teacher)
 - 👀 I’m interested in Computer Science, specifically Machine Learning, Deep Learning, Artificial Intelligance, Arduino Microcontroller and/or Raspberry Pi Microprocessor Based Robots and Competitive Programing.
 - 🌱 I have been learning and using C/C++ and Python Programming Language and I also help my students learn these programming languages.
 
